@@ -1,0 +1,3 @@
+[submodule "Master-GPT"]
+	path = Master-GPT
+	url = git@github.com:anhtuduong/Master-GPT.git
