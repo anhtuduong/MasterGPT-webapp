@@ -1,0 +1,3 @@
+[submodule "webapp/MasterGPT"]
+	path = webapp/MasterGPT
+	url = git@github.com:anhtuduong/MasterGPT.git
